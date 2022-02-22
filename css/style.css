@@ -1,0 +1,24 @@
+/* generics */
+* {
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+/* utilities */
+
+.dg-h-50 {
+  height: 50px;
+}
+
+.dg-h-100 {
+  height: 50px;
+}
+
+.dg-h-200 {
+  height: 50px;
+}
