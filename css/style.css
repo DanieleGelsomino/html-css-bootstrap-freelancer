@@ -38,6 +38,10 @@ footer {
   background-color: rgb(26, 188, 156);
 }
 
+.dg-green {
+  color: rgb(26, 188, 156);
+}
+
 .dg-bg-bordeaux {
   background-color: rgb(186, 75, 99);
 }
@@ -71,4 +75,23 @@ footer {
 .star-rule,
 h1 {
   font-size: 32px;
+}
+/* creo border radius, e adatto con il padding le icons */
+.dg-circle,
+.dg-circle-two,
+.dg-circle-three {
+  border-radius: 50%;
+  border: 1px solid white;
+}
+
+.dg-circle {
+  padding: 10px 16px;
+}
+
+.dg-circle-two {
+  padding: 10px 10px;
+}
+
+.dg-circle-three {
+  padding: 10px 12px;
 }
