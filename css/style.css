@@ -9,15 +9,10 @@ body {
   font-family: sans-serif;
 }
 
-header,
 .start,
 .about,
 footer {
   color: #fff;
-}
-
-.dg-h100 {
-  height: 100px;
 }
 
 /***** utilities *****/
@@ -26,6 +21,12 @@ footer {
 
 .bg-primary {
   background-color: rgb(44, 62, 81) !important;
+}
+
+.btn-outline-success {
+  color: #fff !important ;
+  background-color: rgb(26, 188, 156) !important;
+  border-color: #fff !important;
 }
 
 .dg-bg-green {
@@ -65,13 +66,4 @@ footer {
 .star-rule,
 h1 {
   font-size: 32px;
-}
-
-h3 {
-  font-size: 18px;
-}
-
-h1,
-h2 {
-  font-weight: 600;
 }
