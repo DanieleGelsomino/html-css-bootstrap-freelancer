@@ -9,45 +9,18 @@ body {
   font-family: sans-serif;
 }
 
-/***** utilities *****/
-
-/* heights */
-
-.dg-h-50 {
-  height: 50px;
+header,
+.start,
+.about,
+footer {
+  color: #fff;
 }
 
-.dg-h-100 {
+.dg-h100 {
   height: 100px;
 }
 
-.dg-h-150 {
-  height: 150px;
-}
-
-.dg-h-200 {
-  height: 200px;
-}
-
-.dg-h-300 {
-  height: 300px;
-}
-
-.dg-h-350 {
-  height: 350px;
-}
-
-.dg-h-400 {
-  height: 400px;
-}
-
-.dg-h-500 {
-  height: 500px;
-}
-
-.dg-h-600 {
-  height: 600px;
-}
+/***** utilities *****/
 
 /* colors */
 
@@ -87,16 +60,18 @@ body {
   background-color: #3a546e;
 }
 
-/* padding & margin */
+/* content */
 
-.dg-pd {
-  padding: 30px;
+.star-rule,
+h1 {
+  font-size: 32px;
 }
 
-.dg-pd-bot {
-  padding-bottom: 40px;
+h3 {
+  font-size: 18px;
 }
 
-.dg-m-10 {
-  margin: 10px;
+h1,
+h2 {
+  font-weight: 600;
 }
