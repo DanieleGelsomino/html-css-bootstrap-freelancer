@@ -29,6 +29,11 @@ footer {
   border-color: #fff !important;
 }
 
+.btn-success {
+  background-color: rgb(26, 188, 156) !important;
+  border: 0;
+}
+
 .dg-bg-green {
   background-color: rgb(26, 188, 156);
 }
