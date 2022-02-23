@@ -24,8 +24,8 @@ footer {
 
 /* colors */
 
-.dg-bg-nightblue {
-  background-color: rgb(44, 62, 81);
+.bg-primary {
+  background-color: rgb(44, 62, 81) !important;
 }
 
 .dg-bg-green {
